@@ -442,3 +442,15 @@ tbody tr:hover {
     }
 
 }
+
+.copyright {
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 0;
+    padding: 10px 15px;
+    background: #06457f;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+}
