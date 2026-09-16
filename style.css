@@ -445,18 +445,13 @@ tbody tr:hover {
 
 .copyright {
     position: fixed;
-    bottom: 0;
+    bottom: 8px;
     left: 50%;
     transform: translateX(-50%);
-    width: 100%;
-    padding: 10px 15px;
-    box-sizing: border-box;
-
-    background: #06457f;
-    color: white;
-
+    
+    color: #06457f;
     text-align: center;
     font-size: 14px;
     font-weight: 500;
-    z-index: 9999;
+    white-space: nowrap;
 }
